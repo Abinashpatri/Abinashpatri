@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abinash
-Hi, I'm Abinash. I'm passionate about all things about JavaScript. I work hard, I care about writing clean code and I genuinely love to learn. I aim to work in an environment that will help me to grow as a developer.
+I'm passionate about all things about JavaScript. I work hard, I care about writing clean code and I genuinely love to learn. I aim to work in an environment that will help me to grow as a developer.
 
 Skills: HTML / CSS / SASS / JavaScript / React JS / Redux Toolkit / Node / Express / Mongo DB /  Material UI / Styled Components
 
