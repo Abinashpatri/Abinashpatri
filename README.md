@@ -11,6 +11,5 @@ Skills: HTML / CSS / SASS / JavaScript / React JS / Redux Toolkit / Node / Expre
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abinashpatri)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abinashpatri)  
 
 
